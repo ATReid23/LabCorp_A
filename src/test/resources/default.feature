@@ -1,9 +1,0 @@
-Feature:
-
-
-  Background:
-
-
-    Scenario:
-      Given
-

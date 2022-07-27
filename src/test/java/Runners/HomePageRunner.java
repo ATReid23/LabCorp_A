@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 
 @CucumberOptions(
 
-        tags = "@",
+        tags = "@test",
 
         features = "src/test/resources",
 
@@ -28,5 +28,5 @@ import org.junit.runner.RunWith;
 )
 
 
-public class defaultRunner {
+public class HomePageRunner {
 }
